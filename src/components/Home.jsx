@@ -4,12 +4,12 @@ import "../css/home.css"
 import "../imgs/home_img.jpg";
 import "../imgs/logo-removebg-preview.png"
 
-function Header() {
+const Header = () => {
+
+
 
     const particlesInit = (main) => {
         console.log(main);
-
-        // you can initialize the tsParticles instance (main) here, adding custom shapes or presets
     };
 
     const particlesLoaded = (container) => {
@@ -19,7 +19,15 @@ function Header() {
 
 
     return (
-        <div className="home">
+        <header className="home">
+            <div>
+                <h5>Hello I'm</h5>
+                <h1>Samuel Louis knows as Sampeur</h1>
+                <h5>Fullstack Developer</h5>
+            </div>
+
+
+
             <Particles
                 id="tsparticles"
                 init={particlesInit}
@@ -594,7 +602,30 @@ function Header() {
                 }}
             />
 
-        </div>
+
+            <div>
+                <h5>Hello I'm</h5>
+                <h1>Samuel Louis knows as Sampeur</h1>
+                <h5>Fullstack Developer</h5>
+            </div>
+
+            <div class="video_buttom">
+                <a href="https://youtu.be/IDJ13KPkDE8" data-lity><span><i class="fa fa-play"></i></span></a>
+            </div>
+
+            <div class="social_buttons_area">
+                <div class="social_buttons">
+                    <a href=""><i class="fa fa-instagram"></i></a>
+                    <a href=""><i class="fa fa-facebook"></i></a>
+                    <a href=""><i class="fa fa-behance"></i></a>
+                    <a href=""><i class="fa fa-dribbble"></i></a>
+                    <a href=""><i class="fa fa-twitter"></i></a>
+                </div>
+            </div>
+
+        </header>
+
+
     );
 }
 
