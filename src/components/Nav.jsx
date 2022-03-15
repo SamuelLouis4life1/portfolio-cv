@@ -18,7 +18,7 @@ const Nav = () => {
                 <li><a data-toggle="modal" data-target="#services" href="#">Services</a></li>
                 <li><a data-toggle="modal" data-target="#freelancer" href="#">Freelancer</a></li>
                 <li><a data-toggle="modal" data-target="#ourTeam" href="#">Our Team</a></li>
-                <li><a data-toggle="modal" data-target="#location" href="#">Locations</a></li>
+                <li><a data-toggle="modal" data-target="#location" href="#">Contact</a></li>
             </ul>
         </nav>
     </header>

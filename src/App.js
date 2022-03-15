@@ -2,12 +2,14 @@ import logo from './logo.svg';
 import './App.css';
 import Nav from './components/Nav';
 import Header from './components/Home';
+import Blog from './components/Blog';
 
 function App() {
   return (
     <>
     <Nav/>
     <Header/>
+    <Blog />
     </>
     // <div className="App">
     //   <header className="App-header">
