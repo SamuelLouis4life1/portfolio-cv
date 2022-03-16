@@ -1,12 +1,13 @@
 import React from "react";
 import Particles from 'react-tsparticles';
 import NavbarMenu from './Nav.jsx';
+import { withTranslation } from "react-i18next";
 import "../css/home.css"
 import "../imgs/home_img.jpg";
 import "../imgs/logo-removebg-preview.png"
 
-const Header = () => {
-
+export function Header  (props) {
+    const { t } = props;
     const particlesInit = (main) => {
         console.log(main);
     };
@@ -596,17 +597,17 @@ const Header = () => {
 
             <div className="home-description">
 
-                <h5>Hi I'm</h5>
-                <h1>Samuel Louis Sampeur</h1>
+                <h5>{t("home.hi")}</h5>
+                <h1>{t("home.name")}</h1>
                 <h5>Fullstack Developer</h5>
-                <p>believe in  YESHUA. <a href="#" className="">bible verse</a> </p>
+                <p>{t("home.belief")}<a href="#" className="">bible verse</a> </p>
             </div>
 
 
             {/* 
-            <div class="video_buttom">
-                <a href="https://youtu.be/IDJ13KPkDE8" data-lity><span><i class="fa fa-play"></i></span></a>
-            </div> */}
+                <div class="video_buttom">
+                    <a href="https://youtu.be/IDJ13KPkDE8" data-lity><span><i class="fa fa-play"></i></span></a>
+                </div> */}
 
             <div class="social_buttons_area">
                 <div class="social_buttons">
@@ -619,9 +620,7 @@ const Header = () => {
             </div>
 
         </header>
-
-
     );
 }
 
-export default Header;
+export default withTranslation()(Header);
