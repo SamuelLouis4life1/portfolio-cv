@@ -1,0 +1,28 @@
+{
+    "translations": {
+        
+        "navbarMenu" :{
+            "home" : "Home",
+            "about" : "Sobre",
+            "skills" : "Habilidades",
+            "experiences" : "Experiencias",
+            "services" : "Servicios",
+            "portfolio" : "Portfolio",
+            "contact" : "Contáctame"
+        },
+        "menuLanguage" :{
+            "home" : "Home",
+            "language" : "Idiomas"
+        },
+        "home" : {
+            "bigTitle1" : "FREE calls",
+            "subTitle" : "to any landline or mobile in",
+            "subTitle1" : "28 countries",
+            "text" : "¡Llamadas ilimitadas a tarifas mensuales bajas a más de 28 países!",
+            "description" : "Llame a cualquier número, nacional o internacional, móvil o fijo al precio más bajo. Con nuestro servicio fácil de usar y de alta calidad, todos sus amigos, familiares y colegas - incluso si no tienen la aplicación - estarán al alcance de la mano, sin importar dónde estén.",
+            "description1" : "También ofrecemos números de teléfonos móviles virtuales que puede usar como un segundo número o como el número de su país de origen. Con su número virtual, esté donde esté, manténgase en contacto con amigos y familiares al costo de una llamada local."
+        }
+       
+    }
+
+}

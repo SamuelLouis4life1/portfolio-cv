@@ -4,6 +4,15 @@
     background: url(../imgs/logo-removebg-preview.png) 0 0 no-repeat;
 }
 
+.navbar-menu {
+    top: 0;
+    font-family: Tohoma;
+    z-index: 1000;
+    left: 120px;
+    position: fixed;
+    
+}
+
 .home-description {
     font-size: 12px;
     text-align: left;

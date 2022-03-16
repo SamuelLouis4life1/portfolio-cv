@@ -1,15 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
-import Nav from './components/Nav';
+import NavbarMenu from './components/Nav';
 import Header from './components/Home';
-import Blog from './components/Blog';
+import About from './components/About';
+import Skills from './components/Skills';
+
 
 function App() {
   return (
     <>
-    <Nav/>
+                <div className="navbar-menu">
+                <NavbarMenu />
+            </div>
     <Header/>
-    <Blog />
+    <About />
+    <Skills />
     </>
     // <div className="App">
     //   <header className="App-header">
