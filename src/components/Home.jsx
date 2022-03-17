@@ -8,6 +8,7 @@ import "../imgs/logo-removebg-preview.png"
 
 export function Header  (props) {
     const { t } = props;
+    
     const particlesInit = (main) => {
         console.log(main);
     };

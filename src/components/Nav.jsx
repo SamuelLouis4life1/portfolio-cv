@@ -10,6 +10,7 @@ import { BrowserRouter as Link} from "react-router-dom";
 class NavbarMenu extends React.Component {
   state = {
     navBackground: "red",
+    navBackgroundLetters: "white"
   };
 
   componentDidMount() {
@@ -17,6 +18,7 @@ class NavbarMenu extends React.Component {
       const backgroundcolor = window.scrollY < 100 ? "transparent" : "#eb4438";
 
       this.setState({ navBackground: backgroundcolor });
+      this.setState({ navBackgroundLetters: backgroundcolor });
     });
   }
 
@@ -117,7 +119,7 @@ class NavbarMenu extends React.Component {
                   <NavDropdown.Item
                     href="#"
                     onClick={() => {
-                      this.onLanguageHandle("en");
+                      this.onLanguageHandle("fr");
                     }}
                   >
                     <span className="flag-icon flag-icon-fr"></span> France
@@ -125,19 +127,18 @@ class NavbarMenu extends React.Component {
                   <NavDropdown.Item
                     href="#"
                     onClick={() => {
-                      this.onLanguageHandle("en");
+                      this.onLanguageHandle("es");
                     }}
                   >
-                    <span className="flag-icon flag-icon-us"></span> United
-                    States
+                    <span className="flag-icon flag-icon-es"></span>Español
                   </NavDropdown.Item>
                   <NavDropdown.Item
                     href="#"
                     onClick={() => {
-                      this.onLanguageHandle("es");
+                      this.onLanguageHandle("ht");
                     }}
                   >
-                    <span className="flag-icon flag-icon-ht"></span> Espanhol
+                    <span className="flag-icon flag-icon-ht"></span> Haiti
                   </NavDropdown.Item>
                 </NavDropdown>
               </Nav>

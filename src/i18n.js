@@ -5,6 +5,8 @@ import XHR from 'i18next-xhr-backend'
 import languageEN from './locales/en/translate.json'
 import languagePTBR from './locales/pt-br/translate.json'
 import languageESES from './locales/es-es/translate.json'
+import languageFR from './locales/fr/translate.json'
+import languageHT from './locales/ht/translate.json'
 import backend from "i18next-xhr-backend";
 
 i18n
@@ -15,7 +17,9 @@ i18n
     resources: {
         en: languageEN,
         ptbr: languagePTBR,
-        es: languageESES
+        fr: languageFR,
+        es: languageESES,
+        ht: languageHT
     },
     /* default language when load the website in browser */
     lng: "ptbr",

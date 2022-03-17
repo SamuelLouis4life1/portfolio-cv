@@ -1,0 +1,29 @@
+{
+    "translations": {
+        
+        "navbarMenu" :{
+            "home" : "Home",
+            "about" : "À Propos",
+            "skills" : "Competans",
+            "experiences" : "Experyans",
+            "services" : "Sevis",
+            "portfolio" : "Portfolio",
+            "contact" : "Contact"
+        },
+        "menuLanguage" :{
+            "home" : "Home",
+            "language" : "Lang"
+        },
+        "home" : {
+            "hi" : "Sali, Mwen se ",
+            "name" : "Louis Samuel Sampeur",
+            "belief" : "Mwen kwe nan YESHUA ! ",
+            "bibleVerse" : "Verse Biblik"
+        },
+        "about" : {
+            "description" : " C'est une nouvelle description"
+        }
+       
+    }
+
+}
