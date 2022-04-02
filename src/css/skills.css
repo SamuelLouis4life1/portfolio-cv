@@ -3,7 +3,6 @@
     height: 100vh;
     background: #fff !important;
     z-index: 100;
-    position: absolute;
 }
 
 .skills-description {
@@ -13,5 +12,4 @@
     background: burlywood;
     z-index: 2;
     position: absolute;
-
 }

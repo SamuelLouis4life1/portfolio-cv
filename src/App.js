@@ -3,7 +3,12 @@ import './App.css';
 import NavbarMenu from './components/Nav';
 import Header from './components/Home';
 import About from './components/About';
+import Services from './components/Services';
 import Skills from './components/Skills';
+import Experiences from './components/Experiences';
+import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -13,6 +18,12 @@ function App() {
       <Header />
       <About />
       <Skills />
+      <Experiences />
+      <Services />
+      <Portfolio />
+      <Contact />
+
+      <Footer />
     </>
     // <div className="App">
     //   <header className="App-header">

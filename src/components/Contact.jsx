@@ -1,15 +1,15 @@
 import React from "react";
+import { withTranslation } from "react-i18next";
 import "../css/contact.css"
 
-
-const Blog = () => {
+export function Contact (props) {
+    const { t } = props;
 
     return (
         <section className="contact-section">
             <div className="contact-description">
-                <h1>Contact</h1>
+                <h1>{t("contact.description")}</h1>
             </div>
-
 
         </section>
 
@@ -17,4 +17,4 @@ const Blog = () => {
     );
 }
 
-export default Blog;
+export default withTranslation()(Contact);

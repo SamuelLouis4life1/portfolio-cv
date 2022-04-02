@@ -21,9 +21,25 @@
             "bibleVerse" : "Verse Biblik"
         },
         "about" : {
-            "description" : " C'est une nouvelle description"
-        }
-       
+            "description" : "Se yon nouvel deskripsyon"
+        },
+        "skills" : {
+            "description" : " deskripsyon abitite"
+        },
+        "experiences" : {
+            "description" : "deskripsyon experiences"
+        },
+        "services" : {
+            "description" : "deskripsyon services"
+        },
+        "portfolio" : {
+            "description" : "deskripsyon portfolio"
+        },
+        "contact" : {
+            "description" : "deskripsyon contak"
+        },
+        "footer" : {
+            "description" : "deskripsyon pye"
+        }       
     }
-
 }

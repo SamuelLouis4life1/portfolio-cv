@@ -21,9 +21,25 @@
             "bibleVerse" : "bible verse"
         },
         "about" : {
-            "description" : " Descrição sobre me"
-        }
-       
+            "description" : "Descrição sobre me"
+        },
+        "skills" : {
+            "description" : "Descrição de habilidade"
+        },
+        "experiences" : {
+            "description" : "Descrição experiences"
+        },
+        "services" : {
+            "description" : "Descrição serviços"
+        },
+        "portfolio" : {
+            "description" : "Descrição portfolio"
+        },
+        "contact" : {
+            "description" : "Descrição contato"
+        },
+        "footer" : {
+            "description" : "description rodapé"
+        }       
     }
-
 }

@@ -8,7 +8,7 @@
             "experiences" : "Experiences",
             "services" : "Services",
             "portfolio" : "Portfolio",
-            "contact" : "Contact Me"
+            "contact" : "Contact"
         },
         "menuLanguage" :{
             "home" : "Home",
@@ -21,9 +21,25 @@
             "bibleVerse" : "bible verse"
         },
         "about" : {
-            "description" : " description about me"
-        }
-       
+            "description" : "description about me"
+        },
+        "skills" : {
+            "description" : " description skills"
+        },
+        "experiences" : {
+            "description" : " description experiences"
+        },
+        "services" : {
+            "description" : " description services"
+        },
+        "portfolio" : {
+            "description" : " description portfolio"
+        },
+        "contact" : {
+            "description" : " description contact"
+        },
+        "footer" : {
+            "description" : " description footer"
+        }       
     }
-
 }

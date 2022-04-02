@@ -8,7 +8,7 @@ import "../imgs/logo-removebg-preview.png"
 import ScrollHide from './Services'
 
 
-export function Home  (props) {
+export function Home (props) {
     const { t } = props;
     
     const particlesInit = (main) => {

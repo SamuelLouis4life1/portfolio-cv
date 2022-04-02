@@ -1,16 +1,17 @@
 import React from "react";
+import { withTranslation } from "react-i18next";
 import "../css/skills.css"
 
 
-const Skills = () => {
+export function Skills (pros) {
+    const { t } = pros 
 
     return (
         <section className="skills-section" id="skills">
 
             <div>
-                <h1 className="skills-description">Skills</h1>
+                <h1 className="skills-description">{t("skills.description")}</h1>
             </div>
-
 
         </section>
 
@@ -18,4 +19,4 @@ const Skills = () => {
     );
 }
 
-export default Skills;
+export default withTranslation()(Skills);

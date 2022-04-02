@@ -21,9 +21,25 @@
             "bibleVerse" : "Verset Biblique"
         },
         "about" : {
-            "description" : " C'est une nouvelle description"
-        }
-       
+            "description" : "C'est une nouvelle description"
+        },
+        "skills" : {
+            "description" : "description Habilite fr"
+        },
+        "experiences" : {
+            "description" : "description experiences fr"
+        },
+        "services" : {
+            "description" : "description services fr"
+        },
+        "portfolio" : {
+            "description" : "description portfolio fr"
+        },
+        "contact" : {
+            "description" : "description contact fr"
+        },
+        "footer" : {
+            "description" : "description footer fr"
+        }      
     }
-
 }

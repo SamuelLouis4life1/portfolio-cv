@@ -21,8 +21,26 @@
             "bibleVerse" : "bible verse"
         },
         "about" : {
-            "description" : " C'est une nouvelle description"
-        }
+            "description" : "Descrição sobre me es"
+        },
+        "skills" : {
+            "description" : " Descrição skills es"
+        },
+        "experiences" : {
+            "description" : " Descrição experiences es"
+        },
+        "services" : {
+            "description" : " Descrição services es"
+        },
+        "portfolio" : {
+            "description" : " Descrição portfolio es"
+        },
+        "contact" : {
+            "description" : " Descrição contact es"
+        },
+        "footer" : {
+            "description" : " Descrição footer es"
+        }       
        
     }
 
