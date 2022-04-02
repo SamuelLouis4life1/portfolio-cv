@@ -1,0 +1,10 @@
+.services {
+  z-index: 99;
+}
+
+.service-navbar {
+  position: fixed;
+  z-index: 9999;
+  background: rgb(255, 0, 0);
+  top: 50%;
+}

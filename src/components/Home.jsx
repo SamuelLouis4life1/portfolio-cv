@@ -5,8 +5,10 @@ import { withTranslation } from "react-i18next";
 import "../css/home.css"
 import "../imgs/home_img.jpg";
 import "../imgs/logo-removebg-preview.png"
+import ScrollHide from './Services'
 
-export function Header  (props) {
+
+export function Home  (props) {
     const { t } = props;
     
     const particlesInit = (main) => {
@@ -20,7 +22,6 @@ export function Header  (props) {
     return (
 
         <header className="home">
-
 
             <Particles
                 id="tsparticles"
@@ -624,4 +625,4 @@ export function Header  (props) {
     );
 }
 
-export default withTranslation()(Header);
+export default withTranslation()(Home);

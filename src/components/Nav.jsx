@@ -1,7 +1,6 @@
 import React from "react";
 import "../css/nav.css";
 import "../css/flag-icons.css";
-import "../css/home.css";
 import { Navbar, Container, Nav, NavDropdown } from "react-bootstrap";
 import { withTranslation } from "react-i18next";
 import { BrowserRouter as Link} from "react-router-dom";

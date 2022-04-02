@@ -12,3 +12,16 @@ For more example of particles
 5) https://particles.js.org/docs/
 Paricle documentation
 
+6) Animation scroll
+https://oieduardorabelo.medium.com/anima%C3%A7%C3%B5es-de-scroll-em-react-521cc44e9d59
+
+7) 
+https://dbramwell.github.io/react-animate-on-scroll/#scrollableParentSelector
+
+8) 
+https://codesandbox.io/s/wq08j9xzm5
+
+
+9) Portfolio reference
+https://codesandbox.io/s/o4ws2
+
