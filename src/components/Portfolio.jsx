@@ -8,7 +8,7 @@ export function Portfolio (props) {
 
     return (
 
-        <section className="portfolio-setion">
+        <section className="portfolio-setion" id="portfolio">
 
             <div className="portfolio-description">
 

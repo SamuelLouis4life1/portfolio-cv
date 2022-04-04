@@ -6,7 +6,7 @@ export function Contact (props) {
     const { t } = props;
 
     return (
-        <section className="contact-section">
+        <section className="contact-section" id="contact" >
             <div className="contact-description">
                 <h1>{t("contact.description")}</h1>
             </div>

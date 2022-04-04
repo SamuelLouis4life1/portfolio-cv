@@ -3,7 +3,8 @@ import "../css/nav.css";
 import "../css/flag-icons.css";
 import { Navbar, Container, Nav, NavDropdown } from "react-bootstrap";
 import { withTranslation } from "react-i18next";
-import { BrowserRouter as Link} from "react-router-dom";
+import { BrowserRouter as Link } from "react-router-dom";
+import DarkMode from "./DarkMode";
 
 
 class NavbarMenu extends React.Component {
@@ -15,7 +16,6 @@ class NavbarMenu extends React.Component {
   componentDidMount() {
     document.addEventListener("scroll", () => {
       const backgroundcolor = window.scrollY < 100 ? "transparent" : "#eb4438";
-
       this.setState({ navBackground: backgroundcolor });
       this.setState({ navBackgroundLetters: backgroundcolor });
     });
@@ -70,7 +70,7 @@ class NavbarMenu extends React.Component {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
-              <a href="#home" className="menuItem">
+                <a href="#home" className="menuItem">
                   {t("navbarMenu.home")}
                 </a>
                 <a href="#about" className="menuItem">
@@ -92,7 +92,7 @@ class NavbarMenu extends React.Component {
                   {t("navbarMenu.contact")}
                 </a>
               </Nav>
-             
+
               <Nav>
                 <NavDropdown
                   title={t("menuLanguage.language")}
@@ -141,6 +141,9 @@ class NavbarMenu extends React.Component {
                   </NavDropdown.Item>
                 </NavDropdown>
               </Nav>
+
+              <DarkMode />
+
             </Navbar.Collapse>
           </Container>
         </Navbar>

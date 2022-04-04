@@ -1,16 +1,15 @@
 import React from "react";
 import Particles from 'react-tsparticles';
-import NavbarMenu from './Nav.jsx';
 import { withTranslation } from "react-i18next";
 import "../css/home.css"
 import "../imgs/home_img.jpg";
-import "../imgs/logo-removebg-preview.png"
-import ScrollHide from './Services'
+import "../imgs/logo-removebg-preview.png";
+import SocialMidia from "./SocialMedia";
 
 
-export function Home (props) {
+export function Home(props) {
     const { t } = props;
-    
+
     const particlesInit = (main) => {
         console.log(main);
     };
@@ -21,7 +20,7 @@ export function Home (props) {
 
     return (
 
-        <header className="home">
+        <header className="home" id="home">
 
             <Particles
                 id="tsparticles"
@@ -611,14 +610,8 @@ export function Home (props) {
                     <a href="https://youtu.be/IDJ13KPkDE8" data-lity><span><i class="fa fa-play"></i></span></a>
                 </div> */}
 
-            <div class="social_buttons_area">
-                <div class="social_buttons">
-                    <a href=""><i class="fa fa-instagram"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-behance"></i></a>
-                    <a href=""><i class="fa fa-dribbble"></i></a>
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                </div>
+            <div class="home-social">
+                <SocialMidia />
             </div>
 
         </header>

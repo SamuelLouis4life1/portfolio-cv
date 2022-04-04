@@ -25,3 +25,6 @@ https://codesandbox.io/s/wq08j9xzm5
 9) Portfolio reference
 https://codesandbox.io/s/o4ws2
 
+10) https://codepen.io/uiswarup/pen/oNNMedZ
+animited footer
+
