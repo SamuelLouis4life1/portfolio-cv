@@ -36,7 +36,27 @@
             "description" : "description portfolio fr"
         },
         "contact" : {
-            "description" : "description contact fr"
+            "contactText" : "Contactez moi",
+            "description" : "description contact fr",
+            "description1" : "On peut parler de votre site Web. Envoyez-moi un message et je vous contacterai un jour ouvrable."
+        },
+        "contactForm" : {
+            "title" : "Contactez-moi!",
+            "selectedOption" : "-- Veuillez choisir une option --",
+            "option1" : "Envoyer un commentaire",
+            "option2" : "Envoyer CV",
+            "option3" : "Autre",
+            "option4" : "Autre",
+            "placeholderName" : "Nom",
+            "placeholderSurname" : "Nom de famille",
+            "placeholderEmail" : "Email",
+            "placeholderPhone" : "Téléphone",
+            "placeholderMessage" : "Message",
+            "terms" : "J'ai lu et j'accepte",
+            "conditions" : "les termes et conditions.",
+            "requiredField" : "Champ obligatoire",
+            "sumit" : "Sumit",
+            "reset" : "Reset"
         },
         "footer" : {
             "description" : "description footer fr"

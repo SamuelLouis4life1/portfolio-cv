@@ -36,7 +36,27 @@
             "description" : " Descrição portfolio es"
         },
         "contact" : {
-            "description" : " Descrição contact es"
+            "contactText" : "Contácta me",
+            "description" : " Descrição contact es",
+            "description1" : "Hablemos de su sitio web. envíame un mensaje y me pondré en contacto contigo un día hábil."
+        },
+        "contactForm" : {
+            "title" : "¡Ponte en contacto!",
+            "selectedOption" : "-- Elija una opción --",
+            "option1" : "Enviar un comentario",
+            "option2" : "Enviar currículum",
+            "option3" : "Otro",
+            "option4" : "Otro",
+            "placeholderName" : "Nombre",
+            "placeholderSurname" : "Apellido",
+            "placeholderEmail" : "Correo electrónico",
+            "placeholderPhone" : "Teléfono",
+            "placeholderMessage" : "Mensaje",
+            "terms" : "He leído y estoy de acuerdo con",
+            "conditions" : "los términos y condiciones.",
+            "requiredField" : "Campo Requerido",
+            "sumit" : "Sumito",
+            "reset" : "Restablecer"
         },
         "footer" : {
             "description" : " Descrição footer es"

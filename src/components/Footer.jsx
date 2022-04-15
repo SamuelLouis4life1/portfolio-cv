@@ -20,7 +20,7 @@ export function Footer() {
                 </div>
 
                 <div className="footer-right-reserve footer-items">
-                    <p class="copyright-text">Copyright &copy; {date} All Rights Reserved by <a href="#">Samuel Louis</a>.</p>
+                    <p class="copyright-text">Copyright &copy; {date} All Rights Reserved by <a href="#">Samuel Louis Sampeur</a>.</p>
                 </div>
 
                 <div className="footer-social-media footer-items">

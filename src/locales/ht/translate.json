@@ -36,7 +36,27 @@
             "description" : "deskripsyon portfolio"
         },
         "contact" : {
-            "description" : "deskripsyon contak"
+            "contactText" : "Kontakte'm",
+            "description" : "deskripsyon contak",
+            "description1" : "Nou kapab pale de sit entènèt ou a. voye yon mesaj pou mwen epi mwen pral kontakte ou yon jou ouvrab."
+        },
+        "contactForm" : {
+            "title" : "Kontakte m",
+            "selectedOption" : "-- Tanpri chwazi yon opsyon --",
+            "option1" : "Voye yon Feedback",
+            "option2" : "Voye rezime",
+            "option3" : "Lòt",
+            "option4" : "Other",
+            "placeholderName" : "Non",
+            "placeholderSurname" : "Ti non",
+            "placeholderEmail" : "Imèl",
+            "placeholderPhone" : "Telefòn",
+            "placeholderMessage" : "Mesaj",
+            "terms" : "Mwen te li epi mwen dakò ak",
+            "conditions" : " tèm ak kondisyon yo.",
+            "requiredField" : "Kan obligatwa",
+            "sumit" : "Some",
+            "reset" : "Reset"
         },
         "footer" : {
             "description" : "deskripsyon pye"

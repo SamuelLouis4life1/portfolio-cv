@@ -36,7 +36,27 @@
             "description" : "Descrição portfolio"
         },
         "contact" : {
-            "description" : "Descrição contato"
+            "contactText" : "Contato",
+            "description" : "Descrição contato",
+            "description1" : "Vamos falar sobre o seu site. Envie-me uma mensagem e entrarei em contato com você em um dia útil."
+        },
+        "contactForm" : {
+            "title" : "Entre em contato!",
+            "selectedOption" : "-- Por favor, escolha uma opção --",
+            "option1" : "Enviar um feedback",
+            "option2" : "Enviar currículo",
+            "option3" : "Outro",
+            "option4" : "Outro",
+            "placeholderName" : "Nome",
+            "placeholderSurname" : "Sobrenome",
+            "placeholderEmail" : "E-mail",
+            "placeholderPhone" : "Telefone",
+            "placeholderMessage" : "Mensagem",
+            "terms" : "Li e concordo com",
+            "conditions" : "os termos e condições.",
+            "requiredField" : "Campo obrigatório",
+            "sumit" : "Sumit",
+            "reset" : "Reset"
         },
         "footer" : {
             "description" : "description rodapé"

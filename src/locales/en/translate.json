@@ -36,10 +36,32 @@
             "description" : " description portfolio"
         },
         "contact" : {
-            "description" : " description contact"
+            "contactText" : "Contact me",
+            "description" : "I'd like to hear from you ",
+            "description1" : "Let't talk about your website. send me a message and I will be in touch with you one business day.",
+            "description2" : "Let's work to create your project from scrat or repair it, that will take your braind from bland to...",
+            "description3" : "I am available for freelance work. Connect with me via phone: +552198772-2151 or email: sampeur4life1@gmail.com"
+        },
+        "contactForm" : {
+            "title" : "Get in touch!",
+            "selectedOption" : "-- Please choose an option --",
+            "option1" : "Send a Feedback",
+            "option2" : "Send Resume",
+            "option3" : "Other",
+            "option4" : "Other",
+            "placeholderName" : "Name",
+            "placeholderSurname" : "Surname",
+            "placeholderEmail" : "Email",
+            "placeholderPhone" : "Phone",
+            "placeholderMessage" : "Message",
+            "terms" : "I have read and agreed with",
+            "conditions" : "the terms and conditions.",
+            "requiredField" : "Required Field",
+            "sumit" : "Sumit",
+            "reset" : "Reset"
         },
         "footer" : {
             "description" : " description footer"
-        }       
+        }     
     }
 }
