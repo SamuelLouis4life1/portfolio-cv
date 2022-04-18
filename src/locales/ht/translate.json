@@ -38,7 +38,12 @@
         "contact" : {
             "contactText" : "Kontakte'm",
             "description" : "deskripsyon contak",
-            "description1" : "Nou kapab pale de sit entènèt ou a. voye yon mesaj pou mwen epi mwen pral kontakte ou yon jou ouvrab."
+            "description1" : "Nou kapab pale de sit entènèt ou a. voye yon mesaj pou mwen epi mwen pral kontakte ou yon jou ouvrab.",
+            "description2" : "Ann travay pou kreye pwojè ou a nan grafouyen oswa repare li, ki pral pran sèvo ou soti nan fab nan...",
+            "description3" : "Mwen disponib pou travay endependan. Konekte avè m 'pa telefòn: +552198772-2151 oswa imèl: sampeur4life1@gmail.com",
+            "contactEmail" : "Voye yon Mesaj",
+            "contactWhatsapp" : "Voye yon Mesaj sou Whatsapp",
+            "requiredMessenger" : "Voye yon mesaj sou Messenger"
         },
         "contactForm" : {
             "title" : "Kontakte m",
@@ -52,11 +57,13 @@
             "placeholderEmail" : "Imèl",
             "placeholderPhone" : "Telefòn",
             "placeholderMessage" : "Mesaj",
-            "terms" : "Mwen te li epi mwen dakò ak",
-            "conditions" : " tèm ak kondisyon yo.",
+            "terms" : "Mwen te li epi mwen dakò ak ",
+            "conditions" : "tèm e kondisyon",
             "requiredField" : "Kan obligatwa",
             "sumit" : "Some",
-            "reset" : "Reset"
+            "reset" : "Reset",
+            "sendEmail" : "Voye yon Imèl"
+
         },
         "footer" : {
             "description" : "deskripsyon pye"

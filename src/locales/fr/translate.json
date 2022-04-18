@@ -38,7 +38,12 @@
         "contact" : {
             "contactText" : "Contactez moi",
             "description" : "description contact fr",
-            "description1" : "On peut parler de votre site Web. Envoyez-moi un message et je vous contacterai un jour ouvrable."
+            "description1" : "On peut parler de votre site Web. Envoyez-moi un message et je vous contacterai un jour ouvrable.",
+            "description2" : "Travaillons à créer votre projet à partir de zéro ou à le réparer, cela fera passer votre cerveau de fade à...",
+            "description3" : "Je suis disponible pour un travail indépendant. Contactez-moi par téléphone : +552198772-2151 ou par e-mail : sampeur4life1@gmail.com",
+            "contactEmail" : "Envoyer un message",
+            "contactWhatsapp" : "Envoyer un message sur Whatsapp",
+            "requiredMessenger" : "Envoyer un message sur Messenger"
         },
         "contactForm" : {
             "title" : "Contactez-moi!",
@@ -52,11 +57,12 @@
             "placeholderEmail" : "Email",
             "placeholderPhone" : "Téléphone",
             "placeholderMessage" : "Message",
-            "terms" : "J'ai lu et j'accepte",
-            "conditions" : "les termes et conditions.",
+            "terms" : "J'ai lu et j'accepte les ",
+            "conditions" : "termes et conditions.",
             "requiredField" : "Champ obligatoire",
             "sumit" : "Sumit",
-            "reset" : "Reset"
+            "reset" : "Reset",
+            "sendEmail" : "Envoyer un e-mail"
         },
         "footer" : {
             "description" : "description footer fr"

@@ -40,7 +40,10 @@
             "description" : "I'd like to hear from you ",
             "description1" : "Let't talk about your website. send me a message and I will be in touch with you one business day.",
             "description2" : "Let's work to create your project from scrat or repair it, that will take your braind from bland to...",
-            "description3" : "I am available for freelance work. Connect with me via phone: +552198772-2151 or email: sampeur4life1@gmail.com"
+            "description3" : "I am available for freelance work. Connect with me via phone: +552198772-2151 or email: sampeur4life1@gmail.com",
+            "contactEmail" : "Send a Message",
+            "contactWhatsapp" : "Send a Message on Whatsapp",
+            "requiredMessenger" : "Send a Message on Messenger"
         },
         "contactForm" : {
             "title" : "Get in touch!",
@@ -54,11 +57,12 @@
             "placeholderEmail" : "Email",
             "placeholderPhone" : "Phone",
             "placeholderMessage" : "Message",
-            "terms" : "I have read and agreed with",
-            "conditions" : "the terms and conditions.",
+            "terms" : "I have read and agreed with the ",
+            "conditions" : "terms and conditions.",
             "requiredField" : "Required Field",
             "sumit" : "Sumit",
-            "reset" : "Reset"
+            "reset" : "Reset",
+            "sendEmail" : "Send an Email"
         },
         "footer" : {
             "description" : " description footer"

@@ -1,14 +1,14 @@
 import React from "react";
 import { withTranslation } from "react-i18next";
-import "../css/contactForm.css"
-import "../js/ContactForm.js"
+import "../css/contactForm.css";
+// import "../js/ContactForm.js"
 
 export function ContactForm(props) {
     const { t } = props;
 
     return (
-        <form class="my-form">
-            <div class="container">
+        <form class="contact-form-section">
+            <div class="myContainer">
                 <h1>{t("contactForm.title")}</h1>
                 <ul>
                     <li>
@@ -36,19 +36,19 @@ export function ContactForm(props) {
                         <textarea placeholder={t("contactForm.placeholderMessage")}></textarea>
                     </li>
                     <li>
-                        <input type="checkbox" id="terms" />
+                        <input className="checkbox-terms" type="checkbox" id="terms" />
                         <label for="terms">{t("contactForm.terms")}<a href="">{t("contactForm.conditions")}</a></label>
                     </li>
                     <li>
                         <div class="grid grid-3">
-                            <div class="required-msg">{t("contactForm.placeholderMessage")}</div>
-                            <button class="btn-grid" type="submit" disabled>
+                                <div class="required-msg">{t("contactForm.requiredField")}</div>
+                            <button class="btn-grid" type="submit" >
                                 <span class="back">
                                     <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/email-icon.svg" alt="" />
                                 </span>
                                 <span class="front">{t("contactForm.sumit")}</span>
                             </button>
-                            <button class="btn-grid" type="reset" disabled>
+                            <button class="btn-grid" type="reset" >
                                 <span class="back">
                                     <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/eraser-icon.svg" alt="" />
                                 </span>

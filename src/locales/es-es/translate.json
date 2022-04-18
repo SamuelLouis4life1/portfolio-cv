@@ -38,7 +38,12 @@
         "contact" : {
             "contactText" : "Contácta me",
             "description" : " Descrição contact es",
-            "description1" : "Hablemos de su sitio web. envíame un mensaje y me pondré en contacto contigo un día hábil."
+            "description1" : "Hablemos de su sitio web. envíame un mensaje y me pondré en contacto contigo un día hábil.",
+            "description2" : "Trabajemos para crear tu proyecto desde cero o repararlo, eso llevará tu cerebro de soso a...",
+            "description3" : "Estoy disponible para el trabajo independiente. Conéctese conmigo por teléfono: +552198772-2151 o correo electrónico: sampeur4life1@gmail.com",
+            "contactEmail" : "Enviar un mensaje",
+            "contactWhatsapp" : "Enviar un mensaje en Whatsapp",
+            "requiredMessenger" : "Enviar un mensaje en Messenger"
         },
         "contactForm" : {
             "title" : "¡Ponte en contacto!",
@@ -52,11 +57,12 @@
             "placeholderEmail" : "Correo electrónico",
             "placeholderPhone" : "Teléfono",
             "placeholderMessage" : "Mensaje",
-            "terms" : "He leído y estoy de acuerdo con",
-            "conditions" : "los términos y condiciones.",
+            "terms" : "He leído y estoy de acuerdo con los ",
+            "conditions" : "términos y condiciones.",
             "requiredField" : "Campo Requerido",
             "sumit" : "Sumito",
-            "reset" : "Restablecer"
+            "reset" : "Restablecer",
+            "sendEmail" : "Enviar un correo electrónico"
         },
         "footer" : {
             "description" : " Descrição footer es"

@@ -28,3 +28,26 @@ https://codesandbox.io/s/o4ws2
 10) https://codepen.io/uiswarup/pen/oNNMedZ
 animited footer
 
+11) Dark Light Mode
+https://codesandbox.io/s/dry-meadow-64786?from-embed=&file=/src/DarkMode.css:0-1178
+https://dev.to/alexeagleson/how-to-create-a-dark-mode-component-in-react-3ibg
+https://css-tricks.com/easy-dark-mode-and-multiple-color-themes-in-react/
+https://codepen.io/san_coder13/pen/qBNxqEd
+https://codepen.io/2kool2/pen/abzgPzJ
+https://stackoverflow.com/questions/65443169/animate-form-submit-notice-on-click-in-react-js
+https://www.webtips.dev/react-contact-form-without-backend
+
+
+11) Flip board
+https://codesandbox.io/s/lr2o4qwl7z?from-embed
+https://codepen.io/jgil473/pen/MWYGGxG
+https://codepen.io/aleciahh/pen/zBYjPz
+https://reactjsexample.com/flipping-cards-for-your-react-projects/
+
+
+12) 
+https://stackoverflow.com/questions/21523730/html-checkbox-submit-button-by-agreeing-on-terms-and-condition
+
+
+lucas 22 sobre Judas participo 
+1 Corintias 11, se bebe de forma indigna, é para a sua condenação
