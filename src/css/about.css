@@ -1,15 +1,46 @@
 .about-section {
     width: 100%;
     height: 100vh;
-    background: #fff !important;
-    z-index: 100;
+    background: var(--background-color);
+    position: relative;
+    z-index: 1;
+    padding: 30px;
+}
+
+.about-title {
+    text-align: center;
+    color: black;
+}
+
+.about-image {
+    background: wheat;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    padding-bottom: 2rem;
+}
+
+.about-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 50px;
+    margin: 0 auto;
+}
+
+.about-item:nth-child(1) {
+    padding: 3rem;
+    grid-row: 1 / 3;
+}
+
+.about-item:nth-child(3) {
+    padding-top: 10rem;
+    text-align: center;
 }
 
 .about-description {
-    font-size: 120px;
-    text-align: center;
-    color: black;
-    background: burlywood;
-    z-index: 2;
-    position: absolute;
+    /* font-size: 90px; */
+    /* text-align: center;
+    color: black; */
 }

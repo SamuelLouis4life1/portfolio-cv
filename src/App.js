@@ -9,21 +9,24 @@ import Experiences from './components/Experiences';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
     <>
-      <NavbarMenu />
-      <Header />
-      <About />
-      <Skills />
-      <Experiences />
-      <Services />
-      <Portfolio />
-      <Contact />
+      <Router>
+        <NavbarMenu />
+        <Header />
+        <About />
+        <Skills />
+        <Experiences />
+        <Services />
+        <Portfolio />
+        <Contact />
 
-      <Footer />
+        <Footer />
+      </Router>
+
     </>
     // <div className="App">
     //   <header className="App-header">

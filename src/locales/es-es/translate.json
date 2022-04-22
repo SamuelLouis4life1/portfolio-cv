@@ -21,7 +21,27 @@
             "bibleVerse" : "bible verse"
         },
         "about" : {
-            "description" : "Descrição sobre me es"
+            "title" : "About me",
+            "subTitle" : "A little bit about me:",
+            "descriptionP1" : "Hi, I graduated as a software engening and about to finish at computer Ingenering at ",
+            "descriptionP2" : "now I work as a foolstack developer In ",
+            "descriptionP3" : "and I can do freelance job. ",
+            "descriptionP4" : "I also have specialization in web, app design, so I can design and build your website from scratch. If you'd like to work together on your next or existing project, you can ",
+            "descriptionP5" : "About me",
+            "descriptionP6" : "About me",
+            "descriptionP7" : "About me",
+            "descriptionP8" : "About me",
+            "bigText1" : "Fullstack Developer",
+            "bigText2" : "UI / UX design",
+            "bigText3" : "Web Designer & Developer",
+            "bigText4" : "Delivering Quality Work",
+            "bigText5" : " I'm the cofunder of ",
+            "aboutMeBtn" : "Let's Talk",
+            "aboutMeCv" : "Download CV",
+            "aboutCollege" : "INFNET",
+            "aboutMeCity" : "Rio de Janeiro",
+            "aboutSampeurs" : "SAMPEUR'S",
+            "aboutContact" : "Cantact me"
         },
         "skills" : {
             "description" : " Descrição skills es"
