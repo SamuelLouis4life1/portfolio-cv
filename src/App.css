@@ -13,6 +13,13 @@
   }
 }
 
+h1 {
+  color: var(--font-color);
+  font-size: 10rem;
+  padding: 3rem;
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

@@ -30,7 +30,6 @@ select {
 .checkbox-terms {
   width: 20px !important;
   /* position: absolute; */
-
 }
 
 /* Remove native arrow on IE */
@@ -58,8 +57,6 @@ textarea {
   height: '300px';
   padding-bottom: 40px;
 }
-
-
 
 /* FORM ELEMENTS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
