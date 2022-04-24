@@ -28,7 +28,7 @@ https://codesandbox.io/s/o4ws2
 10) https://codepen.io/uiswarup/pen/oNNMedZ
 animited footer
 
-11) Dark Light Mode
+11) Dark Light Mode 
 https://codesandbox.io/s/dry-meadow-64786?from-embed=&file=/src/DarkMode.css:0-1178
 https://dev.to/alexeagleson/how-to-create-a-dark-mode-component-in-react-3ibg
 https://css-tricks.com/easy-dark-mode-and-multiple-color-themes-in-react/
@@ -56,5 +56,16 @@ talk a little about me story, what I learn, what i1m stusying, I'm a co fundator
 
 https://preview.themeforest.net/item/shadow-personal-portfolio-template/full_screen_preview/20521440?_ga=2.131821325.340184260.1644631044-1364445017.1644631044
 
+1$) change text
+https://stackoverflow.com/questions/42094060/changing-shuffling-text-every-1-5-second-in-a-react-component
+
+16) animated button
+https://hgleyder.github.io/react-animated-button/#animatedbutton
+https://www.npmjs.com/package/react-animated-buttons
+https://webdeasy.de/en/top-css-buttons-en/
+
 lucas 22 sobre Judas participo 
 1 Corintias 11, se bebe de forma indigna, é para a sua condenação
+
+
+LinkedIn, Twitter, Instagram, WhatsApp, Messenger,
