@@ -96,7 +96,16 @@ class TesteFlip extends Component {
           >
             <DefaultCardContents>
               {/* I flip horizontally with an event<br /> */}
-              <button type="button" onClick={() => this.flippyHorizontal.toggle()}>Send an Email</button>
+              <button class="blob-btn" onClick={() => this.flippyHorizontal.toggle()}>Send an Email
+              <span class="blob-btn__inner">
+                    <span class="blob-btn__blobs">
+                      <span class="blob-btn__blob"></span>
+                      <span class="blob-btn__blob"></span>
+                      <span class="blob-btn__blob"></span>
+                      <span class="blob-btn__blob"></span>
+                    </span>
+                  </span>
+                </button>
             </DefaultCardContents>
           </Flippy>
 

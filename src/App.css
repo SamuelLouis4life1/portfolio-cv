@@ -13,12 +13,12 @@
   }
 }
 
-h1 {
+.title {
   color: var(--font-color);
   font-size: 10rem;
   padding: 3rem;
+  text-align: center;
 }
-
 
 .App-header {
   background-color: #282c34;

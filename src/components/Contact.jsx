@@ -11,7 +11,8 @@ export function Contact(props) {
     <body>
 
       <section className="contact-section" id="contact" >
-        <h1 className="contact-header">{t("contact.contactText")}</h1>
+        <h1 className="title">{t("contact.title")}</h1>
+
         <h4 className="contact-sub-header">{t("contact.description1")}</h4>
 
         <div className="container contact-container">
