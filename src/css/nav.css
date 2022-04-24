@@ -29,3 +29,17 @@
 .navbar navbarDarkMode {
     align-items: end;
 }
+
+.dropdown-item {
+    font-size: 20px;
+    width: max-content;
+    padding: 0 20px;
+}
+
+.show {
+    display: grid !important;
+}
+
+.dropdown-menu {
+    background-color: var(--background-color);
+}

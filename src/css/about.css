@@ -40,10 +40,9 @@
 }
 
 .about-btn {
-
     display: flex;
     justify-content: space-between;
-    max-width: 400px;
+    max-width: 450px;
     margin: 0 auto;
     padding: 100px 0;
     text-align: center;
