@@ -52,7 +52,19 @@
             "marriott" : "Marriott Hotel "
         },
         "skills" : {
-            "description" : " deskripsyon abitite"
+            "title" : "Konpetans",
+            "subTitle" : "Konpetans ak nivo teknik mwen",
+            "frontend" : "Développè frontend",
+            "backend" : "Développè backend",
+            "designer" : "Designer",
+            "languages" : "Lang",
+            "otherSkills" : "Sa m'ap aprann",
+            "newSkills" : "Nouvo Konpetans",
+            "creol" : "Kreyòl",
+            "spanish" : "Panyòl",
+            "franse" : "Franse",
+            "english" : "Angle",
+            "portugues" : "pòtigè"
         },
         "experiences" : {
             "description" : "deskripsyon experiences"

@@ -52,7 +52,19 @@
             "Marriott": "Hotel Marriott"
         },
         "skills" : {
-            "description" : " Descrição skills es"
+            "title" : "Habilidades",
+            "subTitle" : "Mis habilidades y nivel técnico",
+            "frontend" : "Desenvolvedor front-end",
+            "backend" : "Desenvolvedor back-end",
+            "designer" : "Designer",
+            "languages" : "Idiomas",
+            "otherSkills" : "Estoy aprendiendo",
+            "newSkills" : "Nuevas Habilidades",
+            "creol" : "Criollo",
+            "spanish" : "Español",
+            "french" : "Francés",
+            "english" : "Inglés",
+            "portugues" : "Portugueses"
         },
         "experiences" : {
             "description" : " Descrição experiences es"

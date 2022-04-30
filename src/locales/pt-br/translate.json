@@ -36,7 +36,8 @@
             "descriptionP8" : "Sou apaixonado por jogar xadrez, caminhar futebol, vôlei, ler alguns livros, sair com alguns amigos, estudar. Também leio a bíblia, mas não apenas no meu tempo livre. ",
             "hobbies" : "Quais são seus hobbies favoritos? ",
             "descriptionP9" : "Adoro explorar novas cidades, tirar fotografias ",
-           
+            "descriptionP10" : "trabalho numa equipe eu faço parte, desenvolvemos novos aplicativos e tambem fazer manutenção nos antigos ",
+
             "bigText1" : "Desenvolvedor Fullstack",
             "bigText2" : "Design de UI/UX",
             "bigText3" : "Web Designer e Desenvolvedor",
@@ -52,7 +53,19 @@
             "marriott" : "Marriott Hotel "            
         },
         "skills" : {
-            "description" : "Descrição de habilidade"
+            "title" : "Habilidades",
+            "subTitle" : "Minhas habilidades e nível técnico",
+            "frontend" : "Desenvolvedor front-end",
+            "backend" : "Desenvolvedor back-end",
+            "designer" : "Designer",
+            "languages" : "Idiomas",
+            "otherSkills" : "Aprendendo",
+            "newSkills" : "Novas habilidades",
+            "creol" : "Crioulo",
+            "spanish" : "Espanhol",
+            "french" : "Francês",
+            "english" : "Inglês",
+            "portugues" : "Português"
         },
         "experiences" : {
             "description" : "Descrição experiences"
@@ -94,6 +107,6 @@
         },
         "footer" : {
             "description" : "description rodapé"
-        }       
+        }
     }
 }

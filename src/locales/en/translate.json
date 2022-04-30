@@ -52,7 +52,19 @@
             "marriott" : "Marriott Hotel "
         },
         "skills" : {
-            "description" : " description skills"
+            "title" : "Skills",
+            "subTitle" : "My skills & technical level",
+            "frontend" : "Frontend deleloper",
+            "backend" : "Backend deleloper",
+            "designer" : "Designer",
+            "languages" : "Languages",
+            "otherSkills" : "What I'm learning",
+            "newSkills" : "New Skills",
+            "creol" : "Creol",
+            "spanish" : "Spanish",
+            "french" : "French",
+            "english" : "English",
+            "portugues" : "Portugues"
         },
         "experiences" : {
             "description" : " description experiences"

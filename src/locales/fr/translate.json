@@ -52,7 +52,19 @@
             "marriott" : "Hôtel Marriott "
         },
         "skills" : {
-            "description" : "description Habilite fr"
+            "title" : "Compétences",
+            "subTitle" : "Mes compétences & mon niveau technique",
+            "frontend" : "Développeur frontend",
+            "backend" : "Développeur back-end",
+            "designer" : "Designer",
+            "languages" : "Langues",
+            "otherSkills" : "Entrain d'appendre",
+            "newSkills" : "Nouvelles compétences",
+            "creol" : "Créole",
+            "spanish" : "Espagnol",
+            "french" : "Français",
+            "english" : "Anglais",
+            "portugues" : "Portugais"
         },
         "experiences" : {
             "description" : "description experiences fr"
