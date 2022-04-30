@@ -1,12 +1,16 @@
 :root {
   --font-color: #333;
+  --font-color-light: rgb(73, 71, 71);
   --background-color: #eee;
+  --background-color-light: rgb(255, 255, 255);  
   --link-color: cornflowerblue;
 }
 
 [data-theme="dark"] {
   --font-color: #eee;
+  --font-color-light: rgb(255, 255, 255);
   --background-color: #333;
+  --background-color-light: rgb(73, 71, 71);
   --link-color: lightblue;
 }
 
