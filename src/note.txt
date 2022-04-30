@@ -58,11 +58,24 @@ https://preview.themeforest.net/item/shadow-personal-portfolio-template/full_scr
 
 1$) change text
 https://stackoverflow.com/questions/42094060/changing-shuffling-text-every-1-5-second-in-a-react-component
+https://www.toptal.com/designers/product-design/how-to-make-a-portfolio
 
 16) animated button
 https://hgleyder.github.io/react-animated-button/#animatedbutton
 https://www.npmjs.com/package/react-animated-buttons
 https://webdeasy.de/en/top-css-buttons-en/
+
+
+17) animated progress bar
+https://github.com/kevoese/react-animated-progress-bar
+https://codepen.io/federspielen/pen/vedgme
+https://codepen.io/Last_dreamer/pen/XWKMzXW
+https://codepen.io/peruvianidol/pen/NLMvqO
+https://codepen.io/rgg/pen/QbRyOq
+https://stackoverflow.com/questions/15945288/animating-progress-bars-with-css
+https://alvarotrigo.com/blog/progress-bar-css/
+https://www.w3schools.com/bootstrap/bootstrap_progressbars.asp
+
 
 lucas 22 sobre Judas participo 
 1 Corintias 11, se bebe de forma indigna, é para a sua condenação
