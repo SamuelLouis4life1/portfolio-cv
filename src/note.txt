@@ -76,6 +76,19 @@ https://stackoverflow.com/questions/15945288/animating-progress-bars-with-css
 https://alvarotrigo.com/blog/progress-bar-css/
 https://www.w3schools.com/bootstrap/bootstrap_progressbars.asp
 
+18) services section
+https://www.webfx.com/blog/web-design/service-page-web-design-example/
+https://www.webfx.com/blog/web-design/portfolio-website-design-guide/
+
+19) o livro "O homen que calculava"
+
+20) swipe slider
+https://codepen.io/pradeeptomar21/pen/MWadmJv
+https://codepen.io/qrolic/pen/NWNVXaB
+https://codepen.io/feyinway/pen/LjMPgv
+https://codepen.io/shamim539/pen/GZPZBp
+https://codesandbox.io/s/reactidswiper-demo-p8j61y7j7
+
 
 lucas 22 sobre Judas participo 
 1 Corintias 11, se bebe de forma indigna, é para a sua condenação

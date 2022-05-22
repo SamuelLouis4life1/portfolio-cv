@@ -73,7 +73,20 @@
             "description" : "deskripsyon services"
         },
         "portfolio" : {
-            "description" : "deskripsyon portfolio"
+            "title" : "Portfolio",
+            "subTitle" : "Portfolio",
+            "csharpProject" : "Pwojè C-Sharp",
+            "csharpProjectDes" : "C-Sharp Microservices Project...",
+            "goLangProject" : "Pwojè GoLang",
+            "goLangProjectDes" : "Pwojè mikwosèvis nan GoLang...",
+            "pythonProject" : "Python IoT Pwojè",
+            "pythonProjectDes" : "Iot ak pwojè syans done lè l sèvi avèk lang Python.",
+            "androidProject" : "Pwojè Android",
+            "androidProjectDes" : "Pwojè yon aplikasyon tèmostat sou Android lè l sèvi avèk lang Java.",
+            "frontEndProject" : "Pwojè Front End",
+            "fronEndProjectDes" : "Pwojè frontend lè l sèvi avèk HTML, CSS, React ak kèk bibliyotèk tankou boostrap...",
+            "prototypingProject" : "Pwojè Pwototip",
+            "prototypingProjectDes" : "Pwototip yon sit entènèt ak yon pwojè aplikasyon..."
         },
         "contact" : {
             "title" : "Kontakte'm",

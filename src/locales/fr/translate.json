@@ -73,7 +73,20 @@
             "description" : "description services fr"
         },
         "portfolio" : {
-            "description" : "description portfolio fr"
+            "title" : "Portfolio",
+            "subTitle" : "Portfolio",
+            "csharpProject" : "Projet C-Sharp",
+            "csharpProjectDes" : "Projet de microservices C-Sharp...",
+            "goLangProject" : "Projet GoLang",
+            "goLangProjectDes" : "Projet de microservices dans GoLang...",
+            "pythonProject" : "Projet Python IdO",
+            "pythonProjectDes" : "Projet IOT et science des données utilisant le langage Python.",
+            "androidProject" : "Projet Android",
+            "androidProjectDes" : "Projet d'une application de thermostat sur Android utilisant le langage Java.",
+            "frontEndProject" : "Projet Front-End",
+            "fronEndProjectDes" : "Projet frontend utilisant HTML, CSS, React et quelques librairies comme boostrap...",
+            "prototypingProject" : "Prototypage de projet",
+            "prototypingProjectDes" : "Prototypage d'un site web et d'un projet d'application..."
         },
         "contact" : {
             "contactText" : "Contactez moi",

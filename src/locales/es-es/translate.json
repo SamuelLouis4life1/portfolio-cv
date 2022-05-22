@@ -70,7 +70,20 @@
             "description" : " Descrição experiences es"
         },
         "services" : {
-            "description" : " Descrição services es"
+            "title" : "Portfolio",
+            "subTitle" : "Portfolio",
+            "csharpProject" : "Proyecto C-Sharp",
+            "csharpProjectDes" : "Proyecto de microservicios de C-Sharp...",
+            "goLangProject" : "Proyecto GoLang",
+            "goLangProjectDes": "Proyecto de microservicios en GoLang...",
+            "pythonProject" : "Proyecto Python IoT",
+            "pythonProjectDes": "IOT y proyecto de ciencia de datos usando lenguaje Python.",
+            "androidProject" : "Proyecto Android",
+            "androidProjectDes": "Proyecto de una aplicación de termostato en Android usando lenguaje Java.",
+            "frontEndProject" : "Proyecto Front End",
+            "fronEndProjectDes": "Proyecto frontend usando HTML, CSS, React y algunas bibliotecas como boostrap...",
+            "prototypingProject" : "Proyecto de creación de prototipos",
+            "prototypingProjectDes": "Prototipando un sitio web y un proyecto de aplicación..."
         },
         "portfolio" : {
             "description" : " Descrição portfolio es"

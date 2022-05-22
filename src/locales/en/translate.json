@@ -73,7 +73,20 @@
             "description" : " description services"
         },
         "portfolio" : {
-            "description" : " description portfolio"
+            "title" : "Portfolio",
+            "subTitle" : "Portfolio",
+            "csharpProject" : "C-Sharp Project",
+             "csharpProjectDes" : "C-Sharp Microservices Project...",
+             "goLangProject" : "GoLang Project",
+             "goLangProjectDes" : "A microservices project in GoLang...",
+             "pythonProject" : "Python IoT Project",
+             "pythonProjectDes" : "IOT and data science project using Python language.",
+             "androidProject" : "Android Project",
+             "androidProjectDes" : "Project of earthquake app on Android using Java language.",
+             "frontEndProject" : "Front End Project",
+             "fronEndProjectDes" : "Frontend project using HTML, CSS, React and some libraries like boostrap...",
+             "prototypingProject" : "Prototyping Project",
+             "prototypingProjectDes" : "Prototyping a website and an application project..."
         },
         "contact" : {
             "title" : "Contact me",
