@@ -18,6 +18,7 @@ export function Skills(pros) {
     const [goLang, setGoLang] = useState(60);
     const [java, setJava] = useState(40);
     const [python, setPython] = useState(50);
+    const [sqlServer, setSqlServer] = useState(50);
     const [figma, setFigma] = useState(30);
     const [sketch, setSketch] = useState(30);
     const [photoshop, setPhotoshop] = useState(50);
@@ -44,11 +45,11 @@ export function Skills(pros) {
     return (
         <section className="skills-section" id="skills">
 
-            <h1 className="title fw-normal">{t("skills.title")}</h1>
+            <h1 className="title">{t("skills.title")}</h1>
 
             <div className="skills-body">
 
-                <p className="skills-title">{t("skills.subTitle")}</p>
+                <p className="subtitle">{t("skills.subTitle")}</p>
 
                 <div className="tab skills-tab">
                     <button
@@ -237,6 +238,17 @@ export function Skills(pros) {
                                 <div className="skills_titles">
                                     <p className="skills_name">Python</p>
                                     <ProgressBar bgcolor={"var(--font-color)"} completed={python} />
+                                </div>
+                            </div>
+
+
+                            <div className="skills_data">
+                                <div className="skill-img">
+
+                                </div>
+                                <div className="skills_titles">
+                                    <p className="skills_name">SQL Server</p>
+                                    <ProgressBar bgcolor={"var(--font-color)"} completed={sqlServer} />
                                 </div>
                             </div>
                         </div>
