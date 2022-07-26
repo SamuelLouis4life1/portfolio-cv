@@ -137,7 +137,7 @@ class NavbarMenu extends React.Component {
                       this.onLanguageHandle("ht");
                     }}
                   >
-                    <span className="flag-icon flag-icon-ht"></span> Haiti
+                    <span className="flag-icon flag-icon-ht"></span> Creolo
                   </NavDropdown.Item>
                 </NavDropdown>
               </Nav>
@@ -151,5 +151,4 @@ class NavbarMenu extends React.Component {
     );
   }
 }
-
 export default withTranslation()(NavbarMenu);
